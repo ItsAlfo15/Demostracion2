@@ -1,1 +1,0 @@
-validación versión 1
